@@ -1,0 +1,64 @@
+O Linux File System (sistema de arquivos do Linux) é organizado em uma estrutura hierárquica, semelhante a uma árvore, onde o diretório raiz (`/`) está no topo e todos os outros diretórios e arquivos se ramificam a partir dele
+
+### Diretório Raiz `/`
+- /: O diretório raiz é o ponto de partida da árvore de diretórios. Todos os outros diretórios e arquivos estão contidos ou vinculados a ele.
+
+### Principais Diretórios
+
+1. /bin (Binary):
+   - Contém comandos binários essenciais que podem ser executados por todos os usuários (ex: `ls`, `cp`, `mv`).
+  
+2. `/boot`:
+   - Armazena arquivos necessários para a inicialização do sistema, como o kernel (`vmlinuz`) e o gerenciador de boot (`grub`).
+  
+3. `/dev` (Devices):
+   - Contém arquivos que representam dispositivos de hardware (ex: discos rígidos, USB, etc.). Esses arquivos são usados pelo sistema para interagir com o hardware.
+
+4. `/etc`:
+   - Contém arquivos de configuração do sistema e scripts de inicialização. Aqui você encontrará arquivos para configurar serviços e definições globais de aplicativos.
+
+5. `/home`:
+   - Diretório onde ficam os diretórios pessoais de cada usuário. Ex: `/home/usuario1`, `/home/usuario2`. Cada usuário tem seu próprio espaço para arquivos pessoais.
+
+6. `/lib` (Libraries):
+   - Contém bibliotecas essenciais compartilhadas pelos programas do sistema, como bibliotecas dinâmicas (`.so`), usadas pelos binários em `/bin` e `/sbin`.
+
+7. `/media` e `/mnt`:
+   - `/media`: Diretório onde dispositivos removíveis, como discos externos e pen drives, são montados automaticamente.
+   - `/mnt`: Usado para montar sistemas de arquivos temporários manualmente.
+
+8. `/opt` (Optional):
+   - Utilizado para a instalação de softwares adicionais opcionais que não fazem parte da instalação padrão do sistema.
+
+9. `/proc`:
+   - Diretório virtual que contém informações sobre processos e recursos do sistema. Ele fornece dados sobre o hardware e o sistema em tempo real, sendo populado dinamicamente.
+
+10. `/root`:
+   - Diretório pessoal do usuário `root` (superusuário). É equivalente ao `/home` para o usuário root.
+
+11. `/run`:
+   - Contém informações sobre o sistema desde a última inicialização, como arquivos de PID e sockets de comunicação entre processos.
+
+12. `/sbin` (System Binaries):
+   - Contém comandos binários essenciais, mas voltados para administração do sistema, acessíveis geralmente apenas ao root (ex: `fdisk`, `ifconfig`, `iptables`).
+
+13. `/srv` (Service):
+   - Contém dados de serviços que o sistema oferece, como dados para servidores web ou FTP.
+
+14. `/tmp` (Temporary):
+   - Diretório para arquivos temporários. Muitos programas criam arquivos temporários aqui durante a execução. Os arquivos podem ser apagados automaticamente após reiniciar o sistema.
+
+15. `/usr` (User System Resources):
+   - Diretório com dados e programas de uso geral:
+     - **`/usr/bin`**: Binários para uso comum pelos usuários.
+     - **`/usr/sbin`**: Binários administrativos (root).
+     - **`/usr/lib`**: Bibliotecas.
+     - **`/usr/local`**: Software instalado localmente pelo administrador (não do repositório padrão).
+
+16. `/var` (Variable):
+   - Armazena dados variáveis, como logs de sistema, arquivos de spool (como e-mails), e outros dados que mudam com o tempo:
+     - **`/var/log`**: Armazena logs do sistema.
+     - **`/var/spool`**: Filas de tarefas, como e-mails ou trabalhos de impressão.
+
+### Estrutura Hierárquica
+A organização do sistema de arquivos segue uma lógica onde diretórios específicos possuem funções bem definidas. Qualquer dado ou programa no Linux pode ser rastreado a partir do diretório raiz `/`, pra facilita a organização e o gerenciamento.

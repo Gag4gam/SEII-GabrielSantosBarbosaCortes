@@ -1,0 +1,114 @@
+# 1. ls - lista os arquivos e diretórios no diretório atual
+ls
+# Exemplo: Exibe os arquivos e diretórios no diretório atual
+# 2. man - exibe o manual do comando especificado
+man ls
+# Exemplo: Exibe o manual do comando "ls"
+# 3. clear - limpa a tela do terminal
+clear
+# Exemplo: Limpa a tela, removendo o histórico visível
+# 4. mkdir - cria um novo diretório
+mkdir exemplo
+# Exemplo: Cria um diretório chamado "exemplo"
+# 5. cd - navega entre diretórios
+cd exemplo
+# Exemplo: Entra no diretório "exemplo"
+# 6. pwd - exibe o caminho completo do diretório atual
+pwd
+# Exemplo: Mostra o caminho do diretório em que você está
+# 7. whoami - exibe o nome do usuário atualmente logado
+whoami
+# Exemplo: Mostra o nome de usuário do usuário logado
+# 8. Redirecionamento - envia a saída de um comando para outro comando ou arquivo
+echo "Olá" > arquivo.txt
+# Exemplo: Redireciona a saída do comando echo para o arquivo "arquivo.txt"
+# 9. Criar e acessar pasta com nome composto
+mkdir "minha pasta"
+cd "minha pasta"
+# Exemplo: Cria uma pasta com espaços no nome e navega para ela
+# 10. touch - cria um arquivo vazio
+touch arquivo.txt
+# Exemplo: Cria um arquivo vazio chamado "arquivo.txt"
+# 11. nano - abre o editor de texto nano para editar um arquivo
+nano arquivo.txt
+# Exemplo: Abre o arquivo "arquivo.txt" no editor nano
+# 12. cat - exibe o conteúdo de um arquivo
+cat arquivo.txt
+# Exemplo: Exibe o conteúdo do arquivo "arquivo.txt"
+# 13. mv - move ou renomeia arquivos e diretórios
+mv arquivo.txt novo_nome.txt
+# Exemplo: Renomeia "arquivo.txt" para "novo_nome.txt"
+# 14. cp - copia arquivos ou diretórios
+cp arquivo.txt copia_arquivo.txt
+# Exemplo: Copia "arquivo.txt" para "copia_arquivo.txt"
+# 15. find - encontra arquivos e diretórios no sistema de arquivos
+find / -name "arquivo.txt"
+# Exemplo: Procura pelo arquivo "arquivo.txt" a partir do diretório raiz
+# 16. head & tail - exibem as primeiras e últimas linhas de um arquivo
+head -n 5 arquivo.txt
+tail -n 5 arquivo.txt
+# Exemplo: Exibe as primeiras 5 linhas e as últimas 5 linhas de "arquivo.txt"
+# 17. less - permite visualizar o conteúdo de arquivos longos página por página
+less arquivo.txt
+# Exemplo: Exibe o conteúdo de "arquivo.txt" de forma paginada
+# 18. rm - remove arquivos
+rm arquivo.txt
+# Exemplo: Remove o arquivo "arquivo.txt"
+# 19. rmdir - remove diretórios vazios
+rmdir exemplo
+# Exemplo: Remove o diretório vazio "exemplo"
+# 20. rm -rf - remove diretórios e seus conteúdos de forma recursiva
+rm -rf exemplo
+# Exemplo: Remove o diretório "exemplo" e todo o seu conteúdo
+# 21. hostname - exibe o nome da máquina
+hostname
+# Exemplo: Mostra o nome do host da máquina atual
+# 22. hostname -i - exibe o endereço IP do host
+hostname -i
+# Exemplo: Mostra o endereço IP da máquina
+# 23. ip a - exibe informações detalhadas da rede
+ip a
+# Exemplo: Exibe interfaces de rede e seus endereços IP
+# 24. grep - procura por padrões dentro de arquivos
+grep "palavra" arquivo.txt
+# Exemplo: Procura a palavra "palavra" no arquivo "arquivo.txt"
+# 25. ping - testa a conectividade de rede com outro host
+ping google.com
+# Exemplo: Verifica se o Google está acessível pela rede
+# 26. free -h & free -m - exibe informações de memória em formato legível
+free -h
+free -m
+# Exemplo: Mostra a memória disponível no sistema em formatos legíveis por humanos (h) e em megabytes (m)
+# 27. top - exibe processos em tempo real
+top
+# Exemplo: Mostra os processos ativos no sistema e seu uso de recursos
+# 28. htop - similar ao "top", mas com interface mais amigável
+htop
+# Exemplo: Exibe uma visão mais detalhada dos processos com interface interativa
+# 29. ps - exibe processos em execução no terminal
+ps
+# Exemplo: Mostra os processos em execução no terminal atual
+# 30. ps aux - exibe todos os processos em execução no sistema
+ps aux
+# Exemplo: Mostra todos os processos ativos no sistema com detalhes
+# 31. kill - envia sinais para encerrar processos
+kill 1234
+# Exemplo: Envia o sinal para encerrar o processo com o ID 1234
+# 32. df -h - exibe informações sobre o uso de espaço em disco
+df -h
+# Exemplo: Mostra o uso de espaço em disco em formato legível por humanos
+# 33. ncdu - visualiza o uso de espaço em disco de forma interativa
+ncdu
+# Exemplo: Exibe o uso de espaço em disco de maneira interativa e fácil de navegar
+# 34. uname - exibe informações sobre o sistema operacional
+uname
+# Exemplo: Mostra o nome do sistema operacional em execução
+# 35. lscpu & lsusb - exibem informações sobre CPU e dispositivos USB
+lscpu
+lsusb
+# Exemplo: "lscpu" exibe informações sobre a CPU e "lsusb" lista dispositivos USB conectados
+# 36. history - exibe o histórico de comandos do terminal
+history
+# Exemplo: Mostra uma lista dos comandos executados anteriormente
+
+
