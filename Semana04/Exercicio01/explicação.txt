@@ -1,0 +1,18 @@
+	A Programação Orientada a Objetos (POO) é um paradigma de programação que se baseia no uso de objetos, que podem conter dados (atributos) e métodos (funções), para representar conceitos do mundo real e resolver problemas de maneira mais estruturada e modular.
+
+	Um paradigma de programação é um estilo ou abordagem de resolução de problemas com o uso de linguagens de programação. Os principais paradigmas incluem a programação procedural(Baseia-se em funções ou procedimentos. As instruções são executadas sequencialmente e organizadas em rotinas, ou seja, divide o programa em funções reutilizáveis.) e a programação orientada a objetos( Foca em objetos que combinam tanto dados (atributos) quanto comportamentos (métodos). A ideia central é modelar o software de forma que reflita a estrutura do mundo real ou do problema que está sendo resolvido.)
+
+	A POO melhora a construção de solução à partir de alguns de seus pontos bases, a modularidade( O código é dividido em objetos, o que facilita a manutenção, teste e reutilização.) a reutilização de código(Com conceitos como herança e polimorfismo, é possível criar sistemas extensíveis, onde código pode ser reutilizado de maneira mais eficiente.) e a sua Organização(objetos encapsulam dados e comportamentos relacionados, o que leva a um código mais limpo e mais fácil de entender.)
+
+	Classe: Uma classe é como um modelo que define os atributos e métodos dos objetos. Em C#, uma classe é declarada com a palavra-chave *class*.
+
+	Objeto: Um objeto é uma instância de uma classe. Ele é criado usando a classe como um molde.
+	
+	O encapsulamento é o princípio de esconder o interno de um objeto e expor apenas o superficial necessário. É feito através de modificadores de acesso, como private, protected, e public. Isso permite proteger os dados de acesso e modificação indevido, oque que em projetos grandes e profissionais são de sumo importância uma vez que uma alteração no código ode gerar problemas consecutivamente catastróficos.
+
+	A abstração é o processo de expor apenas os aspectos essenciais de um objeto, escondendo os detalhes complexos ou desnecessários. Em C#, isso pode ser feito através de interfaces ou classes abstratas.
+
+	A herança permite que uma classe herde as características (atributos e métodos) de outra classe. Isso facilita a reutilização de código. Em C#, usamos os dois pontos : para indicar herança
+	
+	O polimorfismo permite que uma mesma ação se comporte de maneiras diferentes, dependendo do contexto. No C#, isso pode ser implementado através de polimorfismo de sobre carga (vários métodos com o mesmo nome, mas diferentes 'assinaturas') e polimorfismo de sobre escrita (subclasses implementam seus próprios comportamentos para métodos herdados)
+

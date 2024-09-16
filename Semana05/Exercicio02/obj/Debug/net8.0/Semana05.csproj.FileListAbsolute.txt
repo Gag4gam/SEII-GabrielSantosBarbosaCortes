@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Documents\GitHub\SEII-GabrielSantosBarbosaCortes\Semana05\bin\Debug\net8.0\Semana05.exe
+C:\Users\gabri\OneDrive\Documents\GitHub\SEII-GabrielSantosBarbosaCortes\Semana05\bin\Debug\net8.0\Semana05.deps.json
+C:\Users\gabri\OneDrive\Documents\GitHub\SEII-GabrielSantosBarbosaCortes\Semana05\bin\Debug\net8.0\Semana05.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documents\GitHub\SEII-GabrielSantosBarbosaCortes\Semana05\bin\Debug\net8.0\Semana05.dll
+C:\Users\gabri\OneDrive\Documents\GitHub\SEII-GabrielSantosBarbosaCortes\Semana05\bin\Debug\net8.0\Semana05.pdb
+C:\Users\gabri\OneDrive\Documents\GitHub\SEII-GabrielSantosBarbosaCortes\Semana05\obj\Debug\net8.0\Semana05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documents\GitHub\SEII-GabrielSantosBarbosaCortes\Semana05\obj\Debug\net8.0\Semana05.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\SEII-GabrielSantosBarbosaCortes\Semana05\obj\Debug\net8.0\Semana05.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documents\GitHub\SEII-GabrielSantosBarbosaCortes\Semana05\obj\Debug\net8.0\Semana05.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\SEII-GabrielSantosBarbosaCortes\Semana05\obj\Debug\net8.0\Semana05.sourcelink.json
+C:\Users\gabri\OneDrive\Documents\GitHub\SEII-GabrielSantosBarbosaCortes\Semana05\obj\Debug\net8.0\Semana05.dll
+C:\Users\gabri\OneDrive\Documents\GitHub\SEII-GabrielSantosBarbosaCortes\Semana05\obj\Debug\net8.0\refint\Semana05.dll
+C:\Users\gabri\OneDrive\Documents\GitHub\SEII-GabrielSantosBarbosaCortes\Semana05\obj\Debug\net8.0\Semana05.pdb
+C:\Users\gabri\OneDrive\Documents\GitHub\SEII-GabrielSantosBarbosaCortes\Semana05\obj\Debug\net8.0\Semana05.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documents\GitHub\SEII-GabrielSantosBarbosaCortes\Semana05\obj\Debug\net8.0\ref\Semana05.dll
