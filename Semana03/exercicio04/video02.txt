@@ -1,0 +1,5 @@
+Neste video ele comenta sobre eficiencia de códigos e como medir essa eficiência. Ele nos introduz ao conceito de BIG-O. 
+O(1) - É por exemplo um algorítmo que tem tempo de resposta constante. O ideal a ser seguido.
+O(N) - É um algorítmo que cresce de forma linear dependendo de uma quantidade N de dados.
+O(N^2) - É um algorítmo que cresce de forma exponencial dependendo da quantidade N de dados, é um tipo de algoritmo extremamamente ineficiente que deve ser evitado.
+

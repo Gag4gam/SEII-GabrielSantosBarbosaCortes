@@ -1,0 +1,14 @@
+/home/artur/Desktop/sdg/csharp/bin/Debug/net8.0/csharp
+/home/artur/Desktop/sdg/csharp/bin/Debug/net8.0/csharp.deps.json
+/home/artur/Desktop/sdg/csharp/bin/Debug/net8.0/csharp.runtimeconfig.json
+/home/artur/Desktop/sdg/csharp/bin/Debug/net8.0/csharp.dll
+/home/artur/Desktop/sdg/csharp/bin/Debug/net8.0/csharp.pdb
+/home/artur/Desktop/sdg/csharp/obj/Debug/net8.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/artur/Desktop/sdg/csharp/obj/Debug/net8.0/csharp.AssemblyInfoInputs.cache
+/home/artur/Desktop/sdg/csharp/obj/Debug/net8.0/csharp.AssemblyInfo.cs
+/home/artur/Desktop/sdg/csharp/obj/Debug/net8.0/csharp.csproj.CoreCompileInputs.cache
+/home/artur/Desktop/sdg/csharp/obj/Debug/net8.0/csharp.dll
+/home/artur/Desktop/sdg/csharp/obj/Debug/net8.0/refint/csharp.dll
+/home/artur/Desktop/sdg/csharp/obj/Debug/net8.0/csharp.pdb
+/home/artur/Desktop/sdg/csharp/obj/Debug/net8.0/csharp.genruntimeconfig.cache
+/home/artur/Desktop/sdg/csharp/obj/Debug/net8.0/ref/csharp.dll

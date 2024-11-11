@@ -1,0 +1,15 @@
+Design patterns, ou padrões de projeto, são soluções reutilizáveis para problemas comuns que surgem no desenvolvimento de software. Eles têm uma forte ligação com a Programação Orientada a Objetos (POO), pois muitos dos conceitos de design patterns se baseiam nos princípios da POO, como encapsulamento, herança e polimorfismo. Esses padrões ajudam a criar sistemas mais flexíveis, escaláveis e fáceis de manter.
+
+Os padrões de projeto podem ser utilizados em diversas situações, desde a arquitetura de aplicações até a implementação de funcionalidades específicas. Ao aplicar um padrão, os desenvolvedores conseguem melhorar a comunicação entre as partes do sistema e facilitar a colaboração em equipe, pois padrões bem conhecidos proporcionam uma linguagem comum.
+
+A UML (Unified Modeling Language) é uma linguagem padrão de modelagem que auxilia no design e documentação de sistemas orientados a objetos. Ela oferece notações visuais para representar diferentes aspectos do sistema, como classes, objetos e interações. A UML é frequentemente usada em conjunto com design patterns para ilustrar a estrutura e o comportamento do sistema.
+
+Os design patterns são geralmente divididos em três grupos principais:
+
+1. Padrões Criacionais: Esses padrões lidam com a criação de objetos, facilitando a instância de classes e a gestão de complexidade. Exemplos incluem Singleton, Factory Method e Abstract Factory.
+
+2. Padrões Estruturais: Focam na composição de classes e objetos para formar estruturas maiores. Eles ajudam a garantir que, se uma parte do sistema mudar, as partes restantes permaneçam inalteradas. Exemplos incluem Adapter, Composite e Proxy.
+
+3. Padrões Comportamentais: Esses padrões tratam da comunicação entre objetos, ajudando a definir como os objetos interagem e se comunicam. Exemplos incluem Observer, Strategy e Command.
+
+Compreender e aplicar design patterns pode transformar a maneira como um desenvolvedor aborda a solução de problemas, promovendo melhores práticas e eficiência no desenvolvimento de software.

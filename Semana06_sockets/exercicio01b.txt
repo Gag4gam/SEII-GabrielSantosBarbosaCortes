@@ -1,0 +1,32 @@
+O limite de bytes para transmissão em UDP e TCP é diferente:
+
+UDP
+- O tamanho máximo de um pacote UDP é de 65.535 bytes, incluindo o cabeçalho. No entanto, devido a restrições de MTU (Maximum Transmission Unit) da rede, pacotes maiores podem ser fragmentados. Recomenda-se manter os pacotes UDP abaixo de 1.500 bytes para evitar fragmentação em redes Ethernet.
+
+TCP
+- TCP não possui um limite fixo de bytes por pacote, mas o tamanho do segmento TCP é geralmente limitado pela janela de recepção e pela MTU. TCP pode enviar fluxos contínuos de dados, desde que o buffer do receptor não seja excedido.
+Transmissão de Arquivos Grandes
+Para transmitir arquivos grandes, você pode usar:
+
+1. **Divisão em Pacotes**:
+   - **TCP**: Transmite dados em uma sequência de segmentos, gerenciando a entrega, a ordem e a retransmissão automaticamente.
+   - **UDP**: Você precisaria dividir o arquivo manualmente em pacotes e implementar lógica para lidar com perda de pacotes, reordenação e retransmissão, se necessário.
+
+2. **Protocolos de Aplicação**:
+   - Para TCP, você pode usar protocolos como FTP ou HTTP, que lidam com a transmissão de arquivos.
+   - Para UDP, pode considerar protocolos como QUIC, que combina características de UDP com funcionalidades de controle de congestionamento e segurança.
+
+Diferenças de Implementação
+- **TCP**:
+  - Confiável: Garantia de entrega e ordem.
+  - Controle de fluxo: Garante que o receptor não fique sobrecarregado.
+  - Controle de congestionamento: Ajusta a taxa de envio com base nas condições da rede.
+  - Implementação mais complexa, mas ideal para aplicações onde a integridade dos dados é crucial (ex.: transferências de arquivos).
+
+- **UDP**:
+  - Não confiável: Não garante entrega ou ordem.
+  - Sem controle de fluxo e congestionamento: Envio contínuo sem esperar por confirmações.
+  - Implementação mais simples e com menor latência, ideal para aplicações que podem tolerar perda de dados, como streaming de vídeo ou jogos online.
+
+Resumo
+Escolha TCP para arquivos grandes onde a confiabilidade é essencial e UDP para cenários onde a velocidade é mais importante que a integridade dos dados.

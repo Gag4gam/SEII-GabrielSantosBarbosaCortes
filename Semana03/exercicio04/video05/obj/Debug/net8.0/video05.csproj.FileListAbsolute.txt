@@ -1,0 +1,15 @@
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana03/exercicio04/video05/bin/Debug/net8.0/video05
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana03/exercicio04/video05/bin/Debug/net8.0/video05.deps.json
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana03/exercicio04/video05/bin/Debug/net8.0/video05.runtimeconfig.json
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana03/exercicio04/video05/bin/Debug/net8.0/video05.dll
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana03/exercicio04/video05/bin/Debug/net8.0/video05.pdb
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana03/exercicio04/video05/obj/Debug/net8.0/video05.GeneratedMSBuildEditorConfig.editorconfig
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana03/exercicio04/video05/obj/Debug/net8.0/video05.AssemblyInfoInputs.cache
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana03/exercicio04/video05/obj/Debug/net8.0/video05.AssemblyInfo.cs
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana03/exercicio04/video05/obj/Debug/net8.0/video05.csproj.CoreCompileInputs.cache
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana03/exercicio04/video05/obj/Debug/net8.0/video05.sourcelink.json
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana03/exercicio04/video05/obj/Debug/net8.0/video05.dll
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana03/exercicio04/video05/obj/Debug/net8.0/refint/video05.dll
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana03/exercicio04/video05/obj/Debug/net8.0/video05.pdb
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana03/exercicio04/video05/obj/Debug/net8.0/video05.genruntimeconfig.cache
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana03/exercicio04/video05/obj/Debug/net8.0/ref/video05.dll

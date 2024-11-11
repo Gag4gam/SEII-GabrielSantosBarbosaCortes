@@ -1,16 +1,19 @@
-namespace Semana05
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace exercicio02
 {
-    internal class Pessoa
+    public class Pessoa
     {
         private string nome;
         private string sobrenome;
-        private int v;
-
-        public Pessoa(string nome, string sobrenome, int v)
-        {
+        private int idade;
+        public Pessoa(string nome, string sobrenome,int idade){
             this.nome = nome;
             this.sobrenome = sobrenome;
-            this.v = v;
+            this.idade = idade;
         }
     }
 }

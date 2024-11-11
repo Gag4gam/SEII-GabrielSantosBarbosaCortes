@@ -1,0 +1,1 @@
+O video faz uma introdução a tipos de dados abstratos. No video ele cria uma nova classe de dados chamado pokemon, onde ele atribui características como nome, experiência e se é ou não um pokemon. Desta forma criando um novo tipo de dado que representa determinado tipo de informação.

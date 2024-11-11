@@ -1,0 +1,5 @@
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana04/exercicio02/video11/obj/Debug/net8.0/video11.GeneratedMSBuildEditorConfig.editorconfig
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana04/exercicio02/video11/obj/Debug/net8.0/video11.AssemblyInfoInputs.cache
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana04/exercicio02/video11/obj/Debug/net8.0/video11.AssemblyInfo.cs
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana04/exercicio02/video11/obj/Debug/net8.0/video11.csproj.CoreCompileInputs.cache
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana04/exercicio02/video11/obj/Debug/net8.0/video11.sourcelink.json

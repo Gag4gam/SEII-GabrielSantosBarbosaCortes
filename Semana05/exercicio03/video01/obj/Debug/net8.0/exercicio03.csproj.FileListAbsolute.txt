@@ -1,0 +1,15 @@
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana05/exercicio03/obj/Debug/net8.0/exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana05/exercicio03/obj/Debug/net8.0/exercicio03.AssemblyInfoInputs.cache
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana05/exercicio03/obj/Debug/net8.0/exercicio03.AssemblyInfo.cs
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana05/exercicio03/obj/Debug/net8.0/exercicio03.csproj.CoreCompileInputs.cache
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana05/exercicio03/obj/Debug/net8.0/exercicio03.sourcelink.json
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana05/exercicio03/bin/Debug/net8.0/exercicio03
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana05/exercicio03/bin/Debug/net8.0/exercicio03.deps.json
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana05/exercicio03/bin/Debug/net8.0/exercicio03.runtimeconfig.json
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana05/exercicio03/bin/Debug/net8.0/exercicio03.dll
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana05/exercicio03/bin/Debug/net8.0/exercicio03.pdb
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana05/exercicio03/obj/Debug/net8.0/exercicio03.dll
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana05/exercicio03/obj/Debug/net8.0/refint/exercicio03.dll
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana05/exercicio03/obj/Debug/net8.0/exercicio03.pdb
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana05/exercicio03/obj/Debug/net8.0/exercicio03.genruntimeconfig.cache
+/home/artur/Desktop/sdg/SEII-Artur-Martins-Alves/semana05/exercicio03/obj/Debug/net8.0/ref/exercicio03.dll
